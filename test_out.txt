@@ -1,0 +1,7 @@
+streamlit version: 1.56.0
+step 1: starting
+step 2: os ok
+step 3: json ok
+step 4: groq ok
+step 5: dotenv ok
+step 6: dotenv loaded
